@@ -1,0 +1,4 @@
+Square 5 5 10
+Rectangle 10 15 20 15
+Circle 25 20 8
+Ellipse 35 30 25 15
